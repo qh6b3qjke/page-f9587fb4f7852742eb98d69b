@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "01ab6b24138eee7acbf823e1",
+  "owner": "qh6b3qjke",
+  "repo": "page-f9587fb4f7852742eb98d69b",
+  "title": "雕云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f9587fb4f7852742eb98d69b",
+      "a": "雕云",
+      "b": "2027官方最新地址导航",
+      "entity": "雕云",
+      "brand": "雕云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f88e1e98652c7646c64a1402b48b66a7f8cd39ed3edcd15361cc124ca9ad64d",
+      "content": {
+        "primary_entity": "雕云",
+        "keyword1": "雕云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按日常设备选择对应客户端，Windows、macOS、Android、iOS 与路由器各有适配方式。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选对套餐，配置订阅，让雕云适配你的每一台设备。",
+          "AI_CLOSING_TITLE": "开始雕云连接",
+          "AI_DESCRIPTION": "，为跨区域访问、流媒体观看与游戏加速提供线路支持。基础版适合轻度上网，旗舰版兼顾多设备与专线加速，团队版面向更高流量与统一管理需求。按设备类型选择客户端，导入订阅后即可开始使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度快速比较，找到适合当前场景的版本。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与笔记本日常浏览。年付 ¥150/年，成本更省。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线，适合流媒体与游戏加速需求。年付 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持定制路由与专属客户经理，年付 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "轻量基础选择",
+          "AI_FEATURE_TITLE_2": "均衡旗舰体验",
+          "AI_FEATURE_TITLE_3": "大流量团队方案",
+          "AI_GUIDE_INTRO": "从挑选版本到完成订阅配置，三步即可在目标设备上使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "雕云面向跨区域访问场景，提供多档订阅方案与多平台客户端支持。按设备数量、月流量和线路偏好选择版本，配置完成后可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与线路选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐按月流量、在线设备数和线路类型区分，可结合年付方案比较价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、常用设备数量和是否需要专线加速，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认设备系统与版本要求，查看对应客户端是否满足当前使用环境。",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅导入说明，按文档完成配置并连接节点使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "雕云套餐与客户端指南",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雕云支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "常见手机、电脑与平板系统均有对应客户端，可按设备类型选择，并参照客户端文档导入订阅使用。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线，超出后需要调整套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 15 元、年付 150 元，旗舰版月付 35 元、年付 350 元，团队版月付 85 元、年付 850 元，年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版提供 IPLC 专线并做游戏加速优化，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备，含 VIP 高带宽节点、企业定制路由与专属客户经理，适合多人协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "joyrole.com",
+    "host": "joyrole.com"
+  },
+  "file_hashes": {
+    "index.html": "f14980f76594e3145f103a9824c9436e141f361544337ec13efa6102f702c7a8",
+    "sitemap.xml": "694e1b67c16ade74855525252d77e79a5c5ab05f7c330268454e962f74cb049c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b4f848ddb4363df0bab66db388ecb6a00c7ea5b4ff3f5777f8d90b5b0af1b4e7",
+    "robots.txt": "955d9eea6f4a351a0a7d1a5a98046557c91aea2b0dd45bf2b6eddbaf1f8e88f1",
+    "aaa458c528d8e4bfc423b2155b943cc4.txt": "1ebffbc9c4afe0b961a4fbb1e6cbea3c6b6dd6b2af2643b905c2d379a92a8cc2"
+  },
+  "revision": "76f93b315f6802f00c8d7b3e71993462be21de04db882246898f0efa173e53d1"
+}
